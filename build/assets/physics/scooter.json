@@ -1,0 +1,20 @@
+{ 
+    
+    "motorcycle_yellow": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   29, 28  ,  26, 55  ,  17, 69  ,  5, 54  ,  2, 28  ,  16, 1  ]
+        }
+    ]
+    , 
+    "car_black_1": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   69, 22  ,  69, 112  ,  35, 129  ,  2, 113  ,  3, 21  ,  35, 3  ]
+        }
+    ]
+}

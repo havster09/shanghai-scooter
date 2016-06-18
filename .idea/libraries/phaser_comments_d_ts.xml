@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="phaser.comments.d.ts" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/app/vendor/phaser-official/typescript/phaser.comments.d.ts" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/vendor/phaser-official/typescript/phaser.comments.d.ts" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

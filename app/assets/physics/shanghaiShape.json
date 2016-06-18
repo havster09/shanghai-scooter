@@ -1,0 +1,84 @@
+{ 
+    
+    "motorcycle_yellow": [
+        
+        {
+            "density": 2, "friction": 1000, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   5, 54  ,  2, 28  ,  29, 28  ,  26, 55  ,  17, 69  ]
+        } ,
+        {
+            "density": 2, "friction": 1000, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   29, 28  ,  2, 28  ,  15, -10  ]
+        }
+    ]
+    , 
+    "car_black_1": [
+        
+        {
+            "density": 2, "friction": 1000, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   -10, 119  ,  -9, 3  ,  36, -13  ,  81, 4  ,  81, 119  ,  37, 147  ]
+        }
+    ]
+    , 
+    "car_proximity": [
+        
+        {
+            "density": 2, "friction": 1000, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   -10, 143  ,  -10, -37  ,  80, -37  ,  81, 143  ]
+        }
+    ]
+    , 
+    "scooter": [
+        
+        {
+            "density": 2, "friction": 1000, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   5, 54  ,  3, 15  ,  11, 2  ,  19, 2  ,  29, 15  ,  26, 55  ,  17, 69  ]
+        }
+    ]
+    , 
+    "scooter_avoid": [
+        
+        {
+            "density": 2, "friction": 1000, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   39, 5  ,  17, 69  ,  -8, 6  ,  16, -27  ]
+        }
+    ]
+    , 
+    "car": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   1, 1  ,  70, 1  ,  70, 131  ,  0, 131  ]
+        }
+    ]
+    , 
+    "scooter_steer": [
+        
+        {
+            "density": 2, "friction": 1000, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   5, 54  ,  2, 28  ,  29, 28  ,  26, 55  ,  17, 69  ]
+        } ,
+        {
+            "density": 2, "friction": 1000, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   29, 28  ,  2, 28  ,  15, -10  ]
+        }
+    ]
+    , 
+    "car_steer": [
+        
+        {
+            "density": 2, "friction": 1000, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   35, 138  ,  0, 131  ,  0, 3  ,  36, -5  ,  71, 4  ,  71, 131  ]
+        }
+    ]
+}
